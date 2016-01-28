@@ -1,0 +1,12 @@
+#!/bin/bash
+
+gcc -o test myshell.c
+
+if [ -f test ]
+	then
+	./test
+fi
+
+rm test
+
+exit 0

@@ -1,0 +1,48 @@
+body {
+    font-family: courier, sans-serif;
+    font-size: 14px;
+	background-color: rgb(85,153,232);}
+
+h1 {
+	font-size: 35px;
+	color: white;
+	text-shadow: -2px 2px 2px #999;}
+
+a {
+    text-decoration: none;
+    color: green;}
+
+p {
+	margin: 0;
+	padding: 10px;}
+
+.header {
+	background-color: black;
+	padding: 20px 0px 20px 50px;
+	border-radius: 10px;}
+
+#login {
+	margin-left: 70px;
+	padding: 40px;
+	float: left;
+	padding: 20px 10px 30px 20px;
+	margin: 10px;
+	background-color: white;}
+
+.menu {
+	width: 25%;
+	float: left;
+	padding: 20px 10px 30px 20px;
+	margin: 10px;
+	background-color: white;}
+
+.page {
+	background-color: white;
+	width: 60%;
+	float: left;
+	padding: 30px 25px 50px 25px;
+	margin: 10px;}
+
+.survey{
+	margin: 10px 10% 10px 10%;
+}
